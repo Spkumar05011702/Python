@@ -9,7 +9,7 @@
 	 4) jupyter nbextensions_configurator enable --user
  
  
-# Consol Fas
+# ConsolFare links
  
 	https://training.gitbook.io/python-assignments/
 	https://training.gitbook.io/web-scraping/
