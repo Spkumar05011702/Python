@@ -27,6 +27,7 @@
 	https://training.gitbook.io/pandas-assignments/
 	https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 	https://training.gitbook.io/pandas-assignments/imdb-dataset-analysis-basic
+	https://docs.consoleflare.com/
 	
 # Connecting SQL FROM Pandas
 
