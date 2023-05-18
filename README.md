@@ -10,13 +10,13 @@
 	 
 	 
 # Pandas funtion Unique Values in all categorical columns 
-		def unique_val(df):
-  	 	   cat=df.select_dtypes(include="object").nunique().sort_values(ascending = False).index
-   		   ndf=pd.DataFrame()
-		   for i in cat:
-		      ndf[f'{i}']=pd.Series(df[f'{i}'].unique())
-		   ndf.replace(np.nan,"",inplace=True)   
-		   return ndf.T
+def unique_val(df):
+  cat=df.select_dtypes(include="object").nunique().sort_values(ascending = False).index
+  ndf=pd.DataFrame()
+  for i in cat:
+    ndf[f'{i}']=pd.Series(df[f'{i}'].unique())
+  ndf.replace(np.nan,"",inplace=True)
+  return ndf.T
 
  
 # Python links to learn
