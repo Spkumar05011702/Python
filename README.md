@@ -30,7 +30,7 @@
 	https://docs.consoleflare.com/
 
   	https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5834576229597553/3860602172662271/8862019661831722/latest.html
-	
+	df = df.withColumn('DateDiff', expr("(Date2 - Date1)")) df = df.withColumn('DateDiff', df['DateDiff'].cast("integer")) 
 # Connecting SQL FROM Pandas
 
 	import pandas as pd
