@@ -31,6 +31,13 @@
 
   	https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5834576229597553/3860602172662271/8862019661831722/latest.html
 	df = df.withColumn('DateDiff', expr("(Date2 - Date1)")) df = df.withColumn('DateDiff', df['DateDiff'].cast("integer")) 
+
+(Funtion-UDF)-
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1061712452516424/1911494012811915/8153847934095880/latest.html
+
+Bad Data handling
+ databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1061712452516424/3636884342836401/8153847934095880/latest.html
+ 
 # Connecting SQL FROM Pandas
 
 	import pandas as pd
