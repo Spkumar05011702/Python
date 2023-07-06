@@ -35,8 +35,8 @@
 (Funtion-UDF)-
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1061712452516424/1911494012811915/8153847934095880/latest.html
 
-Bad Data handling
- databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1061712452516424/3636884342836401/8153847934095880/latest.html
+(Bad Data handling)-
+ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1061712452516424/3636884342836401/8153847934095880/latest.html
  
 # Connecting SQL FROM Pandas
 
